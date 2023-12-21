@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PenApplication {
 	public static void main(String[] args) {
-		System.out.println("LM10 is the goat ");
+
 		SpringApplication.run(PenApplication.class, args);
 	}
 }
